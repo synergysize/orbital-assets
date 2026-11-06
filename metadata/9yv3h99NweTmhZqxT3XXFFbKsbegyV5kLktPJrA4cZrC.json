@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "symbol": "DONOTBUY",
+  "description": "test",
+  "image": "http://localhost:3077/api/img/9yv3h99NweTmhZqxT3XXFFbKsbegyV5kLktPJrA4cZrC",
+  "properties": {
+    "files": [
+      {
+        "uri": "http://localhost:3077/api/img/9yv3h99NweTmhZqxT3XXFFbKsbegyV5kLktPJrA4cZrC",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  },
+  "extensions": {}
+}
