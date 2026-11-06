@@ -28,5 +28,15 @@
     "createdAt": 1793979038448,
     "metadataUri": "https://raw.githubusercontent.com/synergysize/orbital-assets/main/metadata/G8N6RYr9NVyzigTsXg6S4aNcefA1LWoigBENgCBmvWi1.json",
     "status": "pending"
+  },
+  {
+    "pool": "FtsEGqWnwWkG7YmXzw7YeeP7AmDK6GjxP4o9XiEcN85H",
+    "baseMint": "5jdS7yAn2EdERbEGci5cgbfg97XqneA27THs7DtGzpUZ",
+    "name": "Elonymous",
+    "symbol": "ELONY",
+    "creator": "8fA3sq1oDp6jABcXTcJdvg6592dUtLemzBDbA4LtbbTE",
+    "createdAt": 1793979101743,
+    "metadataUri": "https://raw.githubusercontent.com/synergysize/orbital-assets/main/metadata/5jdS7yAn2EdERbEGci5cgbfg97XqneA27THs7DtGzpUZ.json",
+    "status": "pending"
   }
 ]
