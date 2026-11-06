@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "symbol": "DONOTBUY",
+  "description": "svgasPng",
+  "image": "http://localhost:3077/api/img/F7oXwV1BYemBDCbFdgxTy9sHWWvxEbdjkH48RQPYgoMp",
+  "properties": {
+    "files": [
+      {
+        "uri": "http://localhost:3077/api/img/F7oXwV1BYemBDCbFdgxTy9sHWWvxEbdjkH48RQPYgoMp",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  },
+  "extensions": {}
+}
