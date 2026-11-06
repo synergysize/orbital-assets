@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "symbol": "AB\u0000‮CD",
+  "description": "t",
+  "image": "http://localhost:3077/api/img/6MUnv1GSEYYh29NWZDsyxgciFUUjUr7tNgjUiqrLJ7Ji",
+  "properties": {
+    "files": [
+      {
+        "uri": "http://localhost:3077/api/img/6MUnv1GSEYYh29NWZDsyxgciFUUjUr7tNgjUiqrLJ7Ji",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  },
+  "extensions": {}
+}
