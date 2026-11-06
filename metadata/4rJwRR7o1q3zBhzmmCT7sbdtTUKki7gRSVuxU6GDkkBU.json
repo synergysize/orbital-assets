@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "symbol": "DONOTBUY",
+  "description": "test",
+  "image": "https://raw.githubusercontent.com/synergysize/marspad-assets/main/images/4rJwRR7o1q3zBhzmmCT7sbdtTUKki7gRSVuxU6GDkkBU.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/synergysize/marspad-assets/main/images/4rJwRR7o1q3zBhzmmCT7sbdtTUKki7gRSVuxU6GDkkBU.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  },
+  "extensions": {}
+}
