@@ -1,0 +1,12 @@
+[
+  {
+    "pool": "Fd612o8Y1L6PzCNFSbGTTPRpDxSc9EYXYkUu7d8DDhLB",
+    "baseMint": "FsS9BoQF1mfzc99ozAgVrApvwHNv2sprW3Pfq1X4wX3b",
+    "name": "test",
+    "symbol": "DONOTBUY",
+    "creator": "7BiWJsVuihD5Vo25632yR4dmdHBpxxqARh3mb1vqcWrK",
+    "createdAt": 1793971070099,
+    "metadataUri": "https://raw.githubusercontent.com/synergysize/orbital-assets/main/metadata/FsS9BoQF1mfzc99ozAgVrApvwHNv2sprW3Pfq1X4wX3b.json",
+    "status": "pending"
+  }
+]
