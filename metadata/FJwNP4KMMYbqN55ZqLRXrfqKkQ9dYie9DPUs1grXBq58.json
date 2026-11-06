@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "symbol": "DONOTBUY",
+  "description": "t",
+  "image": "https://evil.example/api/img/FJwNP4KMMYbqN55ZqLRXrfqKkQ9dYie9DPUs1grXBq58",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://evil.example/api/img/FJwNP4KMMYbqN55ZqLRXrfqKkQ9dYie9DPUs1grXBq58",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  },
+  "extensions": {}
+}
