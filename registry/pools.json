@@ -28,6 +28,7 @@
     "creator": "5KCHUARp2BdQfT72af8tfGyYmzD51bCn3x3jPdMBoUqr",
     "createdAt": 1793953233673,
     "metadataUri": "https://raw.githubusercontent.com/synergysize/orbital-assets/main/metadata/CxvwCKahN7LAktWwynxuPsqnF6tz3JDRhg1E8nZ7wUyv.json",
-    "status": "pending"
+    "status": "confirmed",
+    "confirmedAt": 1793953236199
   }
 ]
