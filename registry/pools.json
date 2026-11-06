@@ -30,5 +30,15 @@
     "metadataUri": "https://raw.githubusercontent.com/synergysize/orbital-assets/main/metadata/CxvwCKahN7LAktWwynxuPsqnF6tz3JDRhg1E8nZ7wUyv.json",
     "status": "confirmed",
     "confirmedAt": 1793953236199
+  },
+  {
+    "pool": "bPKiyrnPjbnJQhhvZnCCdVrHiS6UYm4V2aypgoXfajF",
+    "baseMint": "3r2bumPNk6kRDcVkRJKowT61W1y7Cq9H3vtAnwPrPj7K",
+    "name": "test",
+    "symbol": "DONOTBUY",
+    "creator": "7BiWJsVuihD5Vo25632yR4dmdHBpxxqARh3mb1vqcWrK",
+    "createdAt": 1793953857013,
+    "metadataUri": "https://raw.githubusercontent.com/synergysize/orbital-assets/main/metadata/3r2bumPNk6kRDcVkRJKowT61W1y7Cq9H3vtAnwPrPj7K.json",
+    "status": "pending"
   }
 ]
