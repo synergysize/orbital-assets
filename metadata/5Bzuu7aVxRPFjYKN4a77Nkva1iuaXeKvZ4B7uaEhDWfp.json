@@ -1,0 +1,16 @@
+{
+  "name": "Smoke SMK533",
+  "symbol": "SMK533",
+  "description": "fork smoke test",
+  "image": "https://raw.githubusercontent.com/synergysize/marspad-assets/main/images/5Bzuu7aVxRPFjYKN4a77Nkva1iuaXeKvZ4B7uaEhDWfp.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/synergysize/marspad-assets/main/images/5Bzuu7aVxRPFjYKN4a77Nkva1iuaXeKvZ4B7uaEhDWfp.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  },
+  "extensions": {}
+}
