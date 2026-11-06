@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "symbol": "DONOTBUY",
+  "description": "x",
+  "image": "https://marspad-eosin.vercel.app/api/img/G8N6RYr9NVyzigTsXg6S4aNcefA1LWoigBENgCBmvWi1",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://marspad-eosin.vercel.app/api/img/G8N6RYr9NVyzigTsXg6S4aNcefA1LWoigBENgCBmvWi1",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  },
+  "extensions": {}
+}
