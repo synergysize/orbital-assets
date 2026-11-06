@@ -1,0 +1,21 @@
+{
+  "name": "test",
+  "symbol": "DONOTBUY",
+  "description": "test",
+  "image": "http://localhost:3077/api/img/BjdCn8aRW85epr72N9XUPkHBXsDqdn3bGCvTTdvRvoEb",
+  "external_url": "https://example.com/",
+  "properties": {
+    "files": [
+      {
+        "uri": "http://localhost:3077/api/img/BjdCn8aRW85epr72N9XUPkHBXsDqdn3bGCvTTdvRvoEb",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  },
+  "extensions": {
+    "website": "https://example.com/",
+    "twitter": "https://x.com/someone",
+    "telegram": "https://t.me/somegroup"
+  }
+}
