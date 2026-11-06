@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "symbol": "DONOTBUY",
+  "description": "polyglot test",
+  "image": "http://localhost:3077/api/img/Dtx4p5H6wmCCJQ1Ru45YBjTPp5GxY7WdyWhhKpDV1qZe",
+  "properties": {
+    "files": [
+      {
+        "uri": "http://localhost:3077/api/img/Dtx4p5H6wmCCJQ1Ru45YBjTPp5GxY7WdyWhhKpDV1qZe",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  },
+  "extensions": {}
+}
