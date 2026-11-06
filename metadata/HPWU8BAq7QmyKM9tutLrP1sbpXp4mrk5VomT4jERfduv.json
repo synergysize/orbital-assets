@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "symbol": "🚀🚀🚀🚀🚀",
+  "description": "t",
+  "image": "http://localhost:3077/api/img/HPWU8BAq7QmyKM9tutLrP1sbpXp4mrk5VomT4jERfduv",
+  "properties": {
+    "files": [
+      {
+        "uri": "http://localhost:3077/api/img/HPWU8BAq7QmyKM9tutLrP1sbpXp4mrk5VomT4jERfduv",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  },
+  "extensions": {}
+}
