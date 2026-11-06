@@ -8,5 +8,15 @@
     "createdAt": 1793978801066,
     "metadataUri": "https://raw.githubusercontent.com/synergysize/orbital-assets/main/metadata/3NMMPTwUCyBZXfKHVos6GdDfHvdMppCsiC7UPzRoyxXo.json",
     "status": "pending"
+  },
+  {
+    "pool": "EH7x53t3LwwmYyLeKmnuKACD5N67qcrSRbjawzfmFEhb",
+    "baseMint": "95moKqF1L8z68bh56kbrSPWHeTAaHU6Nt3pzhQ8ZSbwf",
+    "name": "test",
+    "symbol": "DONOTBUY",
+    "creator": "7BiWJsVuihD5Vo25632yR4dmdHBpxxqARh3mb1vqcWrK",
+    "createdAt": 1793978805970,
+    "metadataUri": "https://raw.githubusercontent.com/synergysize/orbital-assets/main/metadata/95moKqF1L8z68bh56kbrSPWHeTAaHU6Nt3pzhQ8ZSbwf.json",
+    "status": "pending"
   }
 ]
