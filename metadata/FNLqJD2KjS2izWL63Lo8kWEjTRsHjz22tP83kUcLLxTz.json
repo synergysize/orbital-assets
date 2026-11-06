@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "symbol": "‮DO NOT\u0000 \ud83d",
+  "description": "t",
+  "image": "http://localhost:3077/api/img/FNLqJD2KjS2izWL63Lo8kWEjTRsHjz22tP83kUcLLxTz",
+  "properties": {
+    "files": [
+      {
+        "uri": "http://localhost:3077/api/img/FNLqJD2KjS2izWL63Lo8kWEjTRsHjz22tP83kUcLLxTz",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  },
+  "extensions": {}
+}
