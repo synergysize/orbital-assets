@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "symbol": "DONOTBUY",
+  "description": "test",
+  "image": "https://raw.githubusercontent.com/synergysize/orbital-assets/main/images/Ak4phVd88cBVPia8JGRTbwx1Xn1JjfAvh9ZB5CUwq4y9.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/synergysize/orbital-assets/main/images/Ak4phVd88cBVPia8JGRTbwx1Xn1JjfAvh9ZB5CUwq4y9.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  },
+  "extensions": {}
+}
