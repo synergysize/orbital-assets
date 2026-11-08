@@ -1,0 +1,16 @@
+{
+  "name": "Grand Theft Elon",
+  "symbol": "GTE",
+  "description": "",
+  "image": "https://starbase.family/api/img/DN5o9Mc9pLAY8gcgH8GMQTtdaij7i2aBNka31KrC3z9s",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://starbase.family/api/img/DN5o9Mc9pLAY8gcgH8GMQTtdaij7i2aBNka31KrC3z9s",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  },
+  "extensions": {}
+}
