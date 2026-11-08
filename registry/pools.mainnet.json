@@ -15,7 +15,7 @@
     "baseMint": "DN5o9Mc9pLAY8gcgH8GMQTtdaij7i2aBNka31KrC3z9s",
     "name": "Grand Theft Elon",
     "symbol": "GTE",
-    "creator": "eY4yUGLTtXhYQkBR7B2BjbJeCpUhWuHYkb2nEHXbxkG",
+    "creator": "EWQLnDAnCJDSUnTzAF442DLN23VSdMzqojvirEn7Ldgy",
     "createdAt": 1794174651706,
     "metadataUri": "https://raw.githubusercontent.com/synergysize/orbital-assets/main/metadata/DN5o9Mc9pLAY8gcgH8GMQTtdaij7i2aBNka31KrC3z9s.json",
     "quote": {
@@ -25,6 +25,7 @@
     },
     "feeMode": "holders",
     "launcher": "eY4yUGLTtXhYQkBR7B2BjbJeCpUhWuHYkb2nEHXbxkG",
-    "status": "pending"
+    "status": "confirmed",
+    "confirmedAt": 1794174661483
   }
 ]
